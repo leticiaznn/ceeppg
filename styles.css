@@ -13,7 +13,7 @@ h1 {
 }
 h2{
 	color:red; font-size:180%;  padding-left: 120px;
-  margin-left: 120px;
+  margin-left: 120px; text-align: center;
 }
 p {
 	font-size:120%;font-family:courier;text-align:left;color:white;
