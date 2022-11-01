@@ -13,7 +13,7 @@ h1 {
 }
 h2{
 	color:red; font-size:180%;  padding-left: 120px;
-  margin-left: 120px; text-align: center;
+  margin-left: 120px;
 }
 p {
 	font-size:120%;font-family:courier;text-align:left;color:white;
@@ -29,8 +29,15 @@ p{
 }
 
 h4{
-  color:yellow; font-size: 180%; font-style: italic; text-align: left; background-color:black; 
+  color:yellow; font-size: 250%; font-style: italic; text-align: center; background-color:black; 
 }
+
+h5{
+  color:yellow; font-size: 180%; font-style: italic; background-color:black; 
+}
+
+p{
+  color:white;
 }
 
 figure {
@@ -43,3 +50,16 @@ figure {
   margin-right: 10em;
   padding-right: 0.2em;
 }
+
+header{
+   color:yellow; font-size: 100%; font-style: italic; text-align: center; background-color:black;
+   align-items: center; 
+}
+
+.conteudo-principal{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
